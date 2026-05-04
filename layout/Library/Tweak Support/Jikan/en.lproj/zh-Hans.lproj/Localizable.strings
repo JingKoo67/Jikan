@@ -1,4 +1,67 @@
-"CHARGING" = "充电中";
-"FULLY_CHARGED" = "已充满";
-"FULL_IN" = "预计充满";
-"TIME_REMAINING" = "剩余时间";
+"jikan.common.action.cancel" = "取消";
+"jikan.common.action.ok" = "确定";
+"jikan.common.action.save" = "保存";
+
+"jikan.prefs.header.subtitle" = "在锁屏上显示充满电所需时间";
+"jikan.prefs.legend.slow_charging" = "慢速充电";
+
+"jikan.prefs.section.pill_preview" = "胶囊预览";
+"jikan.prefs.section.pill_display" = "胶囊显示";
+"jikan.prefs.section.pill_position" = "胶囊位置";
+"jikan.prefs.section.miscellaneous" = "其他";
+"jikan.prefs.section.battery_estimate" = "时间估算";
+"jikan.prefs.section.reset" = "重置";
+
+"jikan.prefs.row.enable" = "启用";
+"jikan.prefs.row.lock_x_axis" = "锁定 X 轴";
+"jikan.prefs.row.lock_y_axis" = "锁定 Y 轴";
+"jikan.prefs.row.show_preview" = "显示预览";
+"jikan.prefs.row.show_after_full_charge" = "充满后仍显示";
+"jikan.prefs.row.show_current_wattage" = "显示当前功率";
+"jikan.prefs.row.opacity" = "透明度";
+"jikan.prefs.row.pill_background_opacity" = "胶囊背景透明度 (%)";
+"jikan.prefs.row.estimate_target_percent" = "估算目标 (%)";
+"jikan.prefs.row.charge_limit" = "充电限制";
+"jikan.prefs.row.sync_with_chargelimiter" = "与 ChargeLimiter 同步";
+"jikan.prefs.row.portrait" = "竖屏";
+"jikan.prefs.row.portrait_x" = "竖屏 X";
+"jikan.prefs.row.portrait_y" = "竖屏 Y";
+"jikan.prefs.row.landscape" = "横屏";
+"jikan.prefs.row.landscape_x" = "横屏 X";
+"jikan.prefs.row.landscape_y" = "横屏 Y";
+"jikan.prefs.row.hide_quick_action_buttons" = "隐藏快捷操作按钮";
+"jikan.prefs.row.only_while_charging" = "仅在充电时显示";
+"jikan.prefs.row.reset_pill_position" = "重置胶囊位置";
+"jikan.prefs.row.reset_to_defaults" = "恢复默认设置";
+
+"jikan.prefs.footer.slider_hint" = "长按滑块进行编辑";
+
+"jikan.prefs.slider.opacity.title" = "胶囊背景透明度";
+"jikan.prefs.slider.estimate_target.title" = "估算目标";
+"jikan.prefs.slider.portrait_x.title" = "竖屏 X";
+"jikan.prefs.slider.portrait_y.title" = "竖屏 Y";
+"jikan.prefs.slider.landscape_x.title" = "横屏 X";
+"jikan.prefs.slider.landscape_y.title" = "横屏 Y";
+
+"jikan.prefs.alert.slider_range.message" = "请输入 %.0f 到 %.0f 之间的数值";
+"jikan.prefs.alert.reset_pill_position.title" = "重置胶囊位置";
+"jikan.prefs.alert.reset_pill_position.prompt" = "是否重置竖屏/横屏胶囊位置及轴锁定？";
+"jikan.prefs.alert.reset_preferences.title" = "重置设置";
+"jikan.prefs.alert.reset_preferences.prompt" = "是否将所有 Jikan 设置恢复为默认？";
+"jikan.prefs.alert.detect_limit.none.title" = "未检测到电池限制";
+"jikan.prefs.alert.detect_limit.none.message" = "未检测到 ChargeLimiter 限制，使用 100%。";
+"jikan.prefs.alert.detect_limit.single.title" = "检测到 ChargeLimiter";
+"jikan.prefs.alert.detect_limit.single.message" = "已应用电池限制：%ld%%";
+"jikan.prefs.alert.limit_sources.title" = "已与 ChargeLimiter 同步";
+
+"jikan.tt100.value.na" = "不可用";
+"jikan.tt100.format.hr_min" = "%d 小时 %d 分钟";
+"jikan.tt100.format.hr" = "%d 小时";
+"jikan.tt100.format.min" = "%d 分钟";
+"jikan.tt100.format.lt1min" = "少于 1 分钟";
+
+"jikan.platter.label.until_fully_charged" = "距离充满还需";
+"jikan.platter.label.charged" = "已充满";
+"jikan.platter.label.current_wattage" = "当前功率";
+"jikan.platter.preview.time" = "0 分钟";
+"jikan.platter.preview.eta" = "1 小时 23 分钟";
